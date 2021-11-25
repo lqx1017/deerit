@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
+	<title>website</title>
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+
+<body>
+	<main>
+<div class="main"style="font-family:myFirstFont;font-size:22px;color:black;" >
+		<h1 class="myFirstFont">优秀网站</h1>
+		<br></br>
+		<p class="myFirstFont"><img src="./img/win10.png" width="30" height="30">在线体验win11：https://win11.blueedge.me/</p>
+		<a href="https://win11.blueedge.me/">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="https://msdn.itellyou.cn/favicon.ico">MSDN我告诉你：https://msdn.itellyou.cn</p>
+		<a href="https://msdn.itellyou.cn">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="./img/win10.png" width="30" height="30">Windows10最新版下载（微软官方）：https://www.microsoft.com/zh-cn/software-download/windows10</p>
+		<a href="https://www.microsoft.com/zh-cn/software-download/windows10">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="http://image.nmc.cn/assets/img/index/nmc_logo.png" width="98" height="20">晋江天气（中央气象台）：http://m.nmc.cn/publish/forecast//AFJ/jinjiang.html</p>
+		<a href="http://m.nmc.cn/publish/forecast//AFJ/jinjiang.html">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+		
+		<p class="myFirstFont"><img src="https://weather.cma.cn/assets/cmalogo.png" width="98" height="20">全国天气（中国气象局）：https://weather.cma.cn/web/weather/map.html</p>
+		<a href="https://weather.cma.cn/web/weather/map.html">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+		
+		<p class="myFirstFont"><img src="https://weather.cma.cn/assets/cmalogo.png" width="98" height="20">全国气象预警（中国气象局）：https://weather.cma.cn/web/alarm/map.html</p>
+		<a href="https://weather.cma.cn/web/alarm/map.html">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="https://coolbackgrounds.io/images/favicon-fe5a0ff5.png" width="20" height="20">coolbackgrounds背景合成：https://coolbackgrounds.io/</p>
+		<a href="https://coolbackgrounds.io/">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="http://www.51pptmoban.com/favicon.ico" >51PPT模板：http://www.51pptmoban.com/</p>
+		<a href="http://www.51pptmoban.com/">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="https://pvz-beta.site/favicon.ico" width="20" height="20">植物大战僵尸β版（Dr.小黑）：https://pvz-beta.site/</p>
+		<a href="https://pvz-beta.site/">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="https://melody.ml/img/melody.png" width="20" height="20">melody ml-AI 音频分轨工具：https://melody.ml/</p>
+		<a href="https://melody.ml/">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="https://pdffixer.com/favicon.ico">PDF Fixer-PDF免费修复工具：https://pdffixer.com/</p>
+		<a href="https://pdffixer.com/">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="https://www.photopea.com/promo/thumb256.png" width="20" height="20">Photopea-免费的在线Ps图像编辑器：https://www.photopea.com/</p>
+		<a href="https://www.photopea.com/">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+
+		<p class="myFirstFont"><img src="https://uploads-ssl.webflow.com/5a9ee6416e90d20001b20038/5aa14f74efcfd20001628318_egg%20(1).svg" width="26" height="37">Eggradients-超好用的配色网站：https://www.eggradients.com/</p>
+		<a href="https://www.eggradients.com/">
+  		<button>点击跳转</button>
+		</a>
+		<br></br>
+</div>
+		
+	</main>
+</body>
+</html>
